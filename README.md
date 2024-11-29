@@ -37,4 +37,5 @@ Users can select between two heuristic options to determine the order of node co
 
 ---
 ## DEMO
+- Below is an example using Graph 2 with the most constrained heuristic:
 ![Graph Coloring Demo](GIF.gif)
