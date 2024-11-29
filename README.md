@@ -36,13 +36,5 @@ Users can select between two heuristic options to determine the order of node co
   - `<thread>` and `<chrono>` for handling animation delays.
 
 ---
-
-## Compilation and Execution
-Ensure you have OpenGL and GLFW installed on your system. Compile and run the program with the following commands:
-
-```bash
-g++ main.cpp -o GraphColoring -lglfw -lGL
-./GraphColoring
-
 ## DEMO
 ![Graph Coloring Demo](GIF.gif)
